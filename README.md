@@ -1,10 +1,10 @@
 # **Blog MySQL - PHP**
 
-![Blog PHP - MySQL](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602022082/blog-php-mysql_2_wvzmbt.png "Blog MySQL - PHP")
+![Blog PHP - MySQL](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602022082/GitHub/blog-php-mysql_2_wvzmbt.png "Blog MySQL - PHP")
 
-![Blog PHP - MySQL](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602022079/blog-php-mysql_3_eyh8eb.png "Blog MySQL - PHP")
+![Blog PHP - MySQL](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602022079/GitHub/blog-php-mysql_3_eyh8eb.png "Blog MySQL - PHP")
 
-![Blog PHP - MySQL](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602022079/blog-php-mysql_1_ozx8qs.png "Blog MySQL - PHP")
+![Blog PHP - MySQL](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602022079/GitHub/blog-php-mysql_1_ozx8qs.png "Blog MySQL - PHP")
 
 Blog con panel de administración basica mediante CRUD.
 
